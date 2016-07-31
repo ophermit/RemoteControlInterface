@@ -1,0 +1,3 @@
+title=RemoteManager Demo
+author=ophermit
+orientation=portrait
